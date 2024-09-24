@@ -11,7 +11,7 @@ setup(
   version='0.0.1',
   author='keynet',
   author_email='viktorplay377@gmail.com',
-  description='Конвертер файлов любого типа.',
+  description='Конвертер файлов.',
   long_description=readme(),
   long_description_content_type='text/markdown',
   url='your_url',
@@ -22,7 +22,7 @@ setup(
     'License :: OSI Approved :: MIT License',
     'Operating System :: OS Independent'
   ],
-  keywords='files speedfiles ',
+  keywords='files ivofilesconverter ',
   project_urls={
     'GitHub': 'your_github'
   },

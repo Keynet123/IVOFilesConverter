@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+IVOFilesConverter/__init__.py
+IVOFilesConverter/main.py
+IVOFilesConverter.egg-info/PKG-INFO
+IVOFilesConverter.egg-info/SOURCES.txt
+IVOFilesConverter.egg-info/dependency_links.txt
+IVOFilesConverter.egg-info/requires.txt
+IVOFilesConverter.egg-info/top_level.txt
