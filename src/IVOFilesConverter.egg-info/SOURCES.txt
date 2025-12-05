@@ -9,3 +9,4 @@ IVOFilesConverter.egg-info/SOURCES.txt
 IVOFilesConverter.egg-info/dependency_links.txt
 IVOFilesConverter.egg-info/requires.txt
 IVOFilesConverter.egg-info/top_level.txt
+tests/test.py

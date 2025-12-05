@@ -8,13 +8,13 @@ def readme():
 
 setup(
   name='IVOFilesConverter',
-  version='0.0.1',
+  version='1.0.6',
   author='keynet',
   author_email='viktorplay377@gmail.com',
   description='Конвертер файлов.',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='your_url',
+  url='https://github.com/Keynet123/IVOFilesConverter',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
@@ -24,7 +24,7 @@ setup(
   ],
   keywords='files ivofilesconverter ',
   project_urls={
-    'GitHub': 'your_github'
+    'GitHub': 'https://github.com/Keynet123/IVOFilesConverter'
   },
   python_requires='>=3.6'
 )

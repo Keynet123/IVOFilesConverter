@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: IVOFilesConverter
-Version: 0.0.1
+Version: 1.0.6
 Summary: Конвертер файлов.
-Home-page: your_url
+Home-page: https://github.com/Keynet123/IVOFilesConverter
 Author: keynet
 Author-email: viktorplay377@gmail.com
-Project-URL: GitHub, your_github
+Project-URL: GitHub, https://github.com/Keynet123/IVOFilesConverter
 Keywords: files ivofilesconverter
 Classifier: Programming Language :: Python :: 3.11
 Classifier: License :: OSI Approved :: MIT License
